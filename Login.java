@@ -1,1 +1,4 @@
-public static void main
+public class Login
+{
+	public static void main
+}
